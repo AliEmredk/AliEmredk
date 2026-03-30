@@ -93,6 +93,32 @@ Full-stack IoT system for real-time monitoring and control of wind turbines.
 
 🔗 [Repository](https://github.com/AliEmredk/FullStackIOT-4thSemester)  
 🌐 [Live Demo](https://fullstackiot-web.fly.dev/)
+
+---
+
+### 🔹 Full-Stack Lottery System (Dead Pigeons)
+Distributed full-stack application for managing lottery games, players, and financial transactions.
+
+- Designed and developed backend features using ASP.NET Core and EF Core
+- Implemented JWT-based authentication and role-based access control
+- Built REST APIs for managing games, boards, and transactions
+- Integrated automated testing (xUnit, TestContainers)
+- Containerized and deployed using Docker & Fly.io
+
+🔗 [Repository](https://github.com/ermartin23/3rdSemesterFinalProject)
+🌐 [Live Demo](https://deadpigeons-aged-voice-1352.fly.dev)
+
+---
+
+### 🔹 Product Management System (BelSign Exam Project)
+Java-based application for managing and tracking products in a company environment.
+
+- Product tracking with image capture, editing, and signing features
+- Role-based workflows for managers and inspectors
+- Relational database integration for persistent storage
+- Full-stack application with Java backend and UI components
+
+🔗 [Repository](https://github.com/lauraaa05/BelSignExamProject)
 <!--
 **AliEmredk/AliEmredk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
