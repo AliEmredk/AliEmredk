@@ -91,8 +91,7 @@ Full-stack IoT system for real-time monitoring and control of wind turbines.
 - JWT authentication & command handling
 - React + TypeScript frontend with charts
 
-🔗 [Repository](https://github.com/AliEmredk/FullStackIOT-4thSemester)  
-🌐 [Live Demo](https://fullstackiot-web.fly.dev/)
+🔗 [Repository](https://github.com/AliEmredk/FullStackIOT-4thSemester) 🌐 [Live Demo](https://fullstackiot-web.fly.dev/)
 
 ---
 
