@@ -2,14 +2,18 @@
 
 **Computer Science Student in Denmark | Backend-Focused .NET Developer**
 
-# About Me
+---
+
+# 🧑 About Me
 I'm a Computer Science student based in Denmark, focused on backend development with C# and .NET.
 
 I enjoy building APIs, working with databases, and learning how to design clean, maintainable systems.
 
 Currently, I'm improving my skills in ASP.NET Core, Entity Framework Core, SQL, Docker, Git, and modern software development through university and personal projects.
 
-## Tech Stack
+---
+
+## 💻 Tech Stack
 
 ### Backend
 - C#
@@ -53,7 +57,9 @@ Currently, I'm improving my skills in ASP.NET Core, Entity Framework Core, SQL, 
 - Software architecture
 - Mobile development basics
 
-## Connect
+---
+
+## 🔗 Connect
 - LinkedIn: [https://www.linkedin.com/in/ali-emre-uzunoglu-755920331/]
 <!--
 **AliEmredk/AliEmredk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
