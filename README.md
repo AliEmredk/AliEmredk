@@ -78,6 +78,18 @@ Full-stack real-time chat system with multi-room support, role-based access, and
 - React + TypeScript frontend
 
 🔗 [Repository](https://github.com/AliEmredk/RealtimeChatApplication) | 🌐 [Live Demo](https://frontend-chatappada.fly.dev/)
+
+### 🔹 Offshore Wind Farm Monitoring System
+Full-stack IoT system for real-time monitoring and control of wind turbines.
+
+- MQTT-based telemetry ingestion
+- Real-time updates using SSE
+- ASP.NET Core backend with PostgreSQL
+- JWT authentication & command handling
+- React + TypeScript frontend with charts
+
+🔗 [Repository](https://github.com/AliEmredk/FullStackIOT-4thSemester)  
+🌐 [Live Demo](https://fullstackiot-web.fly.dev/)
 <!--
 **AliEmredk/AliEmredk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
