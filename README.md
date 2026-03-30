@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Emre 👋
+# Hi, I'm Ali Emre 👋
 
 **Computer Science Student in Denmark | Backend-Focused .NET Developer**
 
