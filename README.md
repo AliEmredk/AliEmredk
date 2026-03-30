@@ -26,7 +26,7 @@ Currently, I'm improving my skills in ASP.NET Core, Entity Framework Core, SQL, 
 - SQL Server
 - Relational Databases
 
-## DevOps
+### DevOps
 - CI/CD (GitHub Actions)
 - Pipeline design & automation
 - Build & release workflows
@@ -50,6 +50,8 @@ Currently, I'm improving my skills in ASP.NET Core, Entity Framework Core, SQL, 
 ## Projects
 - **FullStack IoT Project** - Real-time telemetry system with .NET, PostgreSQL, MQTT, SSE, and React
 - **Exam / School Projects** - Practical backend and full-stack applications built during my studies
+
+---
 
 ## Currently Learning
 - DevOps fundamentals
