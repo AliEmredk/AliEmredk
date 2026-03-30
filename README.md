@@ -63,6 +63,21 @@ Currently, I'm improving my skills in ASP.NET Core, Entity Framework Core, SQL, 
 
 ## 🔗 Connect
 - LinkedIn: [https://www.linkedin.com/in/ali-emre-uzunoglu-755920331/]
+
+---
+
+## 🏗️ Key Projects
+
+### 🔹 Real-Time Chat Application
+Full-stack real-time chat system with multi-room support, role-based access, and private messaging.
+
+- ASP.NET Core backend with REST APIs
+- Real-time updates using SSE + Redis backplane
+- JWT authentication & role-based authorization
+- PostgreSQL database
+- React + TypeScript frontend
+
+🔗 [Repository](https://github.com/AliEmredk/RealtimeChatApplication) | 🌐 [Live Demo](https://frontend-chatappada.fly.dev/)
 <!--
 **AliEmredk/AliEmredk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
