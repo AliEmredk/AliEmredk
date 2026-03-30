@@ -13,6 +13,12 @@ Currently, I'm improving my skills in ASP.NET Core, Entity Framework Core, SQL, 
 
 ---
 
+## 🔗 Connect
+- LinkedIn: [https://www.linkedin.com/in/ali-emre-uzunoglu-755920331/]
+- E-mail: aliemreuzunoglu@gmail.com
+
+---
+
 ## 💻 Tech Stack
 
 ### Backend
@@ -58,11 +64,6 @@ Currently, I'm improving my skills in ASP.NET Core, Entity Framework Core, SQL, 
 - IoT systems
 - Software architecture
 - Mobile development basics
-
----
-
-## 🔗 Connect
-- LinkedIn: [https://www.linkedin.com/in/ali-emre-uzunoglu-755920331/]
 
 ---
 
