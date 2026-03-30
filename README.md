@@ -77,7 +77,9 @@ Full-stack real-time chat system with multi-room support, role-based access, and
 - PostgreSQL database
 - React + TypeScript frontend
 
-🔗 [Repository](https://github.com/AliEmredk/RealtimeChatApplication) | 🌐 [Live Demo](https://frontend-chatappada.fly.dev/)
+🔗 [Repository](https://github.com/AliEmredk/RealtimeChatApplication) 
+🌐 [Live Demo](https://frontend-chatappada.fly.dev/)
+
 
 ### 🔹 Offshore Wind Farm Monitoring System
 Full-stack IoT system for real-time monitoring and control of wind turbines.
